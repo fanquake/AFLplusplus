@@ -24,4 +24,4 @@
 	url = https://github.com/nyx-fuzz/packer.git
 [submodule "nyx_mode/QEMU-Nyx"]
 	path = nyx_mode/QEMU-Nyx
-	url = https://github.com/nyx-fuzz/QEMU-Nyx
+	url = https://github.com/fanquake/QEMU-Nyx
